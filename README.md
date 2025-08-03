@@ -48,4 +48,4 @@
 <img src="https://github.com/Ashutosh00710/github-readme-activity-graph/blob/master/images/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 
-<!-- <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="3D contribution snake graph" /> -->
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="3D contribution snake graph" />
