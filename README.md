@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hello, I'm Kabir 👋
 
-<!--
-**KabirKhanuja/KabirKhanuja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/kabirkhanuja)
+[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&style=flat-square)](mailto:kabirkhanuja@email.com)
 
-Here are some ideas to get you started:
+## I mainly work with
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" />
+  <!-- Add more -->
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 GitHub Stats
+
+![Kabira's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KabirKhanuja&show_icons=true&theme=dark&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KabirKhanuja&layout=compact&theme=dark)
+
+<!-- 3D contribution graph -->
+![3D GitHub Profile](https://github.com/KabirKhanuja/your-username/blob/main/assets/github-contribution-grid.gif)
+
+<!-- Profile View Counter -->
+![Profile Views](https://komarev.com/ghpvc/?username=KabirKhanuja&style=flat-square)
+
+---
+
+## 🔥 Contribution Streak
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KabirKhanuja&theme=dark)](https://git.io/streak-stats)
