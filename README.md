@@ -2,8 +2,11 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/kabirkhanuja)
 [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&style=flat-square)](mailto:kabirkhanuja@email.com)
+[![Website](https://img.shields.io/badge/Portfolio-Website-green?style=flat-square&logo=google-chrome)](https://kabirkhanuja-resumewebsite-website-3qctwz.streamlit.app/)
 
-## I mainly work with
+---
+
+## 💻 I mainly work with
 <p align="left">
   <!-- Programming Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
@@ -29,11 +32,6 @@
 ## GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KabirKhanuja&layout=compact&theme=dark)
-
-<!-- 3D contribution graph -->
-![3D GitHub Profile](https://github.com/KabirKhanuja/KabirKhanuja/blob/main/assets/profile-night-view.svg)
-
-<!-- Profile View Counter -->
 ![Profile Views](https://komarev.com/ghpvc/?username=KabirKhanuja&style=flat-square)
 
 ---
@@ -41,3 +39,13 @@
 ## Contribution Streak
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KabirKhanuja&theme=dark)](https://git.io/streak-stats)
+
+---
+
+## GitHub Activity Visualized
+
+<!-- Cool GitHub Contribution Activity GIF -->
+<img src="https://github.com/Ashutosh00710/github-readme-activity-graph/blob/master/images/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+
+<!-- <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="3D contribution snake graph" /> -->
