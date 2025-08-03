@@ -16,7 +16,6 @@
 
 ## 📊 GitHub Stats
 
-![Kabira's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KabirKhanuja&show_icons=true&theme=dark&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KabirKhanuja&layout=compact&theme=dark)
 
 <!-- 3D contribution graph -->
