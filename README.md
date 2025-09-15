@@ -38,7 +38,7 @@
 
 ## Contribution Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KabirKhanuja&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=KabirKhanuja&theme=dark)](https://git.io/streak-stats)
 
 ---
 
