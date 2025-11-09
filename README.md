@@ -45,10 +45,9 @@
 
 ---
 
-## GitHub Stats
+## Before you get into the business
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KabirKhanuja&layout=compact&theme=dark)
-![Profile Views](https://komarev.com/ghpvc/?username=KabirKhanuja&style=flat-square)
+[![Play Mario-Clone](https://raw.githubusercontent.com/jcw87/c2-smb1/master/screenshot.png)](https://jcw87.github.io/c2-smb1/)
 
 ---
 
