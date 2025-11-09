@@ -1,5 +1,7 @@
 # Hello, I'm Kabir 😃
 
+![Rainbow Jumping Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/kabirkhanuja)
 [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&style=flat-square)](mailto:kabirkhanuja@email.com)
 [![Website](https://img.shields.io/badge/Portfolio-Website-green?style=flat-square&logo=google-chrome)](https://kabirkhanuja-resumewebsite-website-3qctwz.streamlit.app/)
