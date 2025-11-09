@@ -2,18 +2,18 @@
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <span style="font-size: 2em; font-weight: bold;">
   </span>
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXE0NnFzejNoNzJ1cmxrcjczeTYydHFqOTNwcDR6b21yZ2NjdHNrdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BMaE0wCQhcJj2/giphy.gif" alt="Cat falling into box" style="height: 60px; margin-left: 20px;"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXE0NnFzejNoNzJ1cmxrcjczeTYydHFqOTNwcDR6b21yZ2NjdHNrdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BMaE0wCQhcJj2/giphy.gif" alt="Cat falling into box" style="height: 70px; margin-left: 20px;"/>
   <img src="https://tenor.com/view/cat-orange-cat-laughing-aaaa-gif-4465510619613777157.gif" alt="Orange laughing cat"
-    style="height: 60px; margin-left: 20px;"/>
+    style="height: 80px; margin-left: 20px;"/>
   <img src="https://tenor.com/view/dose-dosecat-cat-dosehiii-gif-16589794208005431512.gif" alt="Dose cat waving" style="height:
-    60px; margin-left: 20px;"/>
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Jumping Cat" style="height: 60px; margin-left: 20px;"/>
+    80px; margin-left: 20px;"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Jumping Cat" style="height: 85px; margin-left: 20px;"/>
 
 </div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/kabirkhanuja)
-[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&style=flat-square)](mailto:kabirkhanuja@email.com)
-[![Website](https://img.shields.io/badge/Portfolio-Website-green?style=flat-square&logo=google-chrome)](https://kabirkhanuja-resumewebsite-website-3qctwz.streamlit.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/kabirkhanuja)
+[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge)](mailto:kabirkhanuja@email.com)
+[![Website](https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge&logo=google-chrome)](https://kabirkhanuja-resumewebsite-website-3qctwz.streamlit.app/)
 
 ---
 
