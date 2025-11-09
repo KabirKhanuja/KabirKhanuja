@@ -1,6 +1,6 @@
+# Hello, I'm Kabir 😃
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <span style="font-size: 2em; font-weight: bold;">
-    Hello, I'm Kabir 😃
   </span>
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Jumping Cat" style="height: 60px; margin-left: 20px;"/>
 </div>
