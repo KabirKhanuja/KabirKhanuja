@@ -47,7 +47,7 @@
 
 ## ⚡ Typing Stats
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&width=600&lines=150+WPM+(15s)+@+98%%25;140+WPM+(30s)+@+98%%25;124+WPM+(60s)+@+96%%25;Visit+my+Monkeytype+Profile+💨)](https://monkeytype.com/profile/Kabiraa)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&width=600&lines=150+WPM+(15s)+@+98%25;140+WPM+(30s)+@+98%25;124+WPM+(60s)+@+96%25;Visit+my+Monkeytype+Profile+💨)](https://monkeytype.com/profile/Kabiraa)
 
 [![Monkeytype Profile](https://img.shields.io/badge/Monkeytype-Kabiraa-F7DF1E?logo=monkeytype&logoColor=black&style=for-the-badge)](https://monkeytype.com/profile/Kabiraa)
 
