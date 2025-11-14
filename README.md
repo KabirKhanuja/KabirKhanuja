@@ -14,6 +14,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/kabirkhanuja)
 [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge)](mailto:kabirkhanuja@email.com)
 [![Website](https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge&logo=google-chrome)](https://kabirkhanuja-resumewebsite-website-3qctwz.streamlit.app/)
+![Profile views](https://komarev.com/ghpvc/?username=KabirKhanuja&style=flat&color=blue)
 
 ---
 
