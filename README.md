@@ -17,7 +17,7 @@
 
 ---
 
-## 💻 I mainly work with
+## I mainly work with
 <p align="left">
   <!-- Programming Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" /> 
@@ -45,17 +45,30 @@
 
 ---
 
-## ⚡ Typing Stats
+## GitHub stats 
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=KabirKhanuja&theme=dark" 
+         alt="KabirKhanuja's GitHub Streak"
+         style="margin-bottom: 10px;"/>
+  </a>
+  
+  <a href="https://github.com/kabirkhanuja/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=kabirkhanuja&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
+         alt="kabirkhanuja's GitHub stats"
+         style="margin-bottom: 10px;"/>
+  </a>
+</div>
+
+
+---
+
+## Typing Stats
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&width=600&lines=150+WPM+(15s)+@+98%25;140+WPM+(30s)+@+98%25;124+WPM+(60s)+@+96%25;Visit+my+Monkeytype+Profile+💨)](https://monkeytype.com/profile/Kabiraa)
 
 [![Monkeytype Profile](https://img.shields.io/badge/Monkeytype-Kabiraa-F7DF1E?logo=monkeytype&logoColor=black&style=for-the-badge)](https://monkeytype.com/profile/Kabiraa)
-
----
-
-## Contribution Streak
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KabirKhanuja&theme=dark)](https://git.io/streak-stats)
 
 ---
 
