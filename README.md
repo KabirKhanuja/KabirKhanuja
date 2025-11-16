@@ -72,6 +72,6 @@
 
 ---
 
-## GitHub Activity Visualized
+## GitHub Activity
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="3D contribution snake graph" />
