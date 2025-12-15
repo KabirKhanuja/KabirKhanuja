@@ -54,9 +54,9 @@
          style="margin-bottom: 10px;"/>
   </a>
   
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabirkhanuja&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" 
-         alt="Kabir's Top Languages" 
+  <a href="https://github.com/denvercoder1/github-contribution-grid-snake">
+    <img src="https://raw.githubusercontent.com/kabirkhanuja/kabirkhanuja/output/github-contribution-grid-snake-dark.svg"
+         alt="kabirkhanuja's Contribution Streak"
          style="margin-bottom: 10px;"/>
   </a>
 </div>
