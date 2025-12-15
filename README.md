@@ -54,9 +54,9 @@
          style="margin-bottom: 10px;"/>
   </a>
   
-  <a href="https://github.com/ryo-ma/github-profile-trophies">
-    <img src="https://github-profile-trophies.vercel.app/?username=kabirkhanuja&theme=dark&no-frame=true&margin-w=4"
-         alt="Kabir's Trophies"
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabirkhanuja&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" 
+         alt="Kabir's Top Languages" 
          style="margin-bottom: 10px;"/>
   </a>
 </div>
