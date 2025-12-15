@@ -48,15 +48,15 @@
 ## GitHub stats‎ ‎ ‎ ‎  ![Profile views](https://komarev.com/ghpvc/?username=KabirKhanuja&style=flat&color=blue)
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=KabirKhanuja&theme=dark" 
-         alt="KabirKhanuja's GitHub Streak"
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kabirkhanuja&bg_color=0d1117&color=5bcdec&line=5bcdec&point=FFFFFF&hide_border=true" 
+         alt="Kabir's Activity Graph" 
          style="margin-bottom: 10px;"/>
   </a>
   
-  <a href="https://github.com/kabirkhanuja/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=kabirkhanuja&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
-         alt="kabirkhanuja's GitHub stats"
+  <a href="https://github.com/ryo-ma/github-profile-trophies">
+    <img src="https://github-profile-trophies.vercel.app/?username=kabirkhanuja&theme=dark&no-frame=true&margin-w=4"
+         alt="Kabir's Trophies"
          style="margin-bottom: 10px;"/>
   </a>
 </div>
