@@ -53,11 +53,9 @@
          alt="Kabir's Activity Graph" 
          style="margin-bottom: 10px;"/>
   </a>
-  
-  <a href="https://github.com/denvercoder1/github-contribution-grid-snake">
-    <img src="https://raw.githubusercontent.com/kabirkhanuja/kabirkhanuja/output/github-contribution-grid-snake-dark.svg"
-         alt="kabirkhanuja's Contribution Streak"
-         style="margin-bottom: 10px;"/>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=5BCDEC&center=true&vCenter=true&width=435&lines=IoT+%26+Cloud+Enthusiast;C%2B%2B+%26+Embedded+Systems;Building+Scalable+Solutions" alt="Typing SVG" style="margin-bottom: 10px;" />
   </a>
 </div>
 
