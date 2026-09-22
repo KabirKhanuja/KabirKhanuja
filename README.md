@@ -56,11 +56,14 @@
 ## GitHub stats‎ ‎ ‎ ‎  ![Profile views](https://komarev.com/ghpvc/?username=KabirKhanuja&style=flat&color=blue)
 
 <div align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=kabirkhanuja&bg_color=0d1117&color=5bcdec&line=5bcdec&point=FFFFFF&hide_border=true" 
          alt="Kabir's Activity Graph" 
          style="margin-bottom: 10px;"/>
-  </a>
+  </a> -->
+
+  <img width="662" height="486" alt="image" src="https://github.com/user-attachments/assets/787dfb77-501a-465c-bcc8-2250eba1077c" />
+
 
   <a href="https://readme-jokes.vercel.app/">
     <img src="https://readme-jokes.vercel.app/api?theme=dark&hide_border=true" alt="Jokes Card" />
