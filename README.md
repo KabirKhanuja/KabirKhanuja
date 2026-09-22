@@ -53,7 +53,7 @@
 
 ---
 
-## GitHub stats‎ ‎ ‎ ‎  ![Profile views](https://komarev.com/ghpvc/?username=KabirKhanuja&style=flat&color=blue)
+## Open-source gigs‎ ‎ ‎ ‎  ![Profile views](https://komarev.com/ghpvc/?username=KabirKhanuja&style=flat&color=blue)
 
 <div align="center">
   <!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
@@ -62,14 +62,14 @@
          style="margin-bottom: 10px;"/>
   </a> -->
 
-  <img width="662" height="486" alt="image" src="https://github.com/user-attachments/assets/787dfb77-501a-465c-bcc8-2250eba1077c" />
-
+  <img width="662" height="486" alt="kabir_khanuja_gsoc" src="https://github.com/user-attachments/assets/787dfb77-501a-465c-bcc8-2250eba1077c" />
+  <br>
+  <br>
 
   <a href="https://readme-jokes.vercel.app/">
     <img src="https://readme-jokes.vercel.app/api?theme=dark&hide_border=true" alt="Jokes Card" />
   </a>
 </div>
-
 
 ---
 
